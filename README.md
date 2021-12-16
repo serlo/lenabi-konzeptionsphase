@@ -11,7 +11,7 @@ In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation
 
 ## Repository
 
-[Prototype of metadata API for serlo.org (LENABI).ipynb](<https://github.com/serlo/lenabi/blob/main/src/Prototype%20of%20metadata%20API%20for%20serlo.org%20(LENABI).ipynb>) enthält die technische Dokumentation der Metadaten API.
+[Prototype of metadata API for serlo.org (LENABI).ipynb](https://lenabi.serlo.org/metadata-api) enthält die technische Dokumentation unserer neuen Metadaten API. Die Datei [Metadaten-API für BIRD.ipynb](https://github.com/serlo/lenabi/blob/main/src/Metadaten-API%20f%C3%BCr%20BIRD.ipynb) beschreibt den Metadaten Endpunkt für BIRD.
 
 ## Lizenz
 
