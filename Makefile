@@ -3,7 +3,7 @@
 all: help
 
 jupyter:
-	jupyter notebook
+	jupyter notebook --notebook-dir=src
 
 init:
 	pip install -r requirements.txt
