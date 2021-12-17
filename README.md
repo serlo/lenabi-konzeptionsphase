@@ -4,14 +4,18 @@
 
 In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation für unser LENABI Projekt.
 
-## Wiki
+## Prototypen
 
-- [Prototyp für Single Sign-On](https://github.com/serlo/lenabi/wiki/SSO) und [Prototyp für den Data-Wallet](https://github.com/serlo/lenabi/wiki/Data-Wallet) beschreiben, wie unsere Prototypen benutzt werden können.
+Folgende Seiten beschreibt die Benutzung unserer Prototypen:
+
+- [Prototyp für Single Sign-On](https://github.com/serlo/lenabi/wiki/SSO)
+- [Prototyp für den Data-Wallet](https://github.com/serlo/lenabi/wiki/Data-Wallet)
+- [Metadaten-API für BIRD](https://github.com/serlo/lenabi/blob/main/src/Metadaten-API%20f%C3%BCr%20BIRD.ipynb)
+
+## Dokumentation der Implementierung
+
 - [Implementierung der Prototypen](https://github.com/serlo/lenabi/wiki/Implementierung-der-Prototypen) beschreibt unsere Implementierung und soll als Hilfestellung für andere Projekte dienen.
-
-## Repository
-
-[Prototype of metadata API for serlo.org (LENABI).ipynb](https://lenabi.serlo.org/metadata-api) enthält die technische Dokumentation unserer neuen Metadaten API. Die Datei [Metadaten-API für BIRD.ipynb](https://github.com/serlo/lenabi/blob/main/src/Metadaten-API%20f%C3%BCr%20BIRD.ipynb) beschreibt den Metadaten Endpunkt für BIRD.
+- [Prototype of metadata API for serlo.org (LENABI).ipynb](https://lenabi.serlo.org/metadata-api) enthält die technische Dokumentation unserer neuen Metadaten API.
 
 ## Lizenz
 
