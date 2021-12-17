@@ -4,9 +4,7 @@
 
 In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation für unser LENABI Projekt.
 
-## Prototypen
-
-Folgende Seiten beschreibt die Benutzung unserer Prototypen:
+## Beschreibung der Prototypen
 
 - [Prototyp für Single Sign-On](https://github.com/serlo/lenabi/wiki/SSO)
 - [Prototyp für den Data-Wallet](https://github.com/serlo/lenabi/wiki/Data-Wallet)
