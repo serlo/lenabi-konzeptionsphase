@@ -8,7 +8,7 @@ In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation
 
 - [Prototyp für Single Sign-On](https://github.com/serlo/lenabi/wiki/SSO)
 - [Prototyp für den Data-Wallet](https://github.com/serlo/lenabi/wiki/Data-Wallet)
-- [Metadaten-API für BIRD](https://github.com/serlo/lenabi/blob/main/src/Metadaten-API%20f%C3%BCr%20BIRD.ipynb)
+- [Metadaten-API für BIRD](https://nbviewer.org/github/serlo/lenabi/blob/main/src/Metadaten-API%20f%C3%BCr%20BIRD.ipynb)
 
 ## Dokumentation der Implementierung
 
