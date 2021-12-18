@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/serlo/frontend/staging/public/_assets/img/serlo-logo-gh.svg" alt="Serlo Logo" title="Serlo" align="right" height="75" />
 
-# serlo.org – LENABI 
+# serlo.org – LENABI
 
 In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation für unser LENABI Projekt.
 
@@ -14,6 +14,14 @@ In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation
 
 - [Implementierung der Prototypen](https://github.com/serlo/lenabi/wiki/Implementierung-der-Prototypen) beschreibt unsere Implementierung und soll als Hilfestellung für andere Projekte dienen.
 - [Prototype of metadata API for serlo.org (LENABI).ipynb](https://lenabi.serlo.org/metadata-api) enthält die technische Dokumentation unserer neuen Metadaten API.
+
+## Starten der Jupyter Notebooks
+
+Dieses Repository enthält Jupyter Notebooks, die folgendermaßen selbst gestartet werden können:
+
+1. Klonen dieses Repositories.
+2. Dependencies mit `make init` installieren.
+3. Jupyter Notebook mit `make jupyter` starten.
 
 ## Lizenz
 
