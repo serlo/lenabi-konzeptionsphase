@@ -2,7 +2,7 @@
 
 # serlo.org – LENABI
 
-In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation für unser Projekt LENABI (Hochwertige und frei lizenzierte **Le**rnmaterialien in der **Na**tionalen **Bi**ldungsplattform), die Einbindung von Serlo in die künftige deutsche nationale Bildungsplattform.
+In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation für unser Projekt LENABI (Hochwertige und frei lizenzierte **Le**rnmaterialien in der **Na**tionalen **Bi**ldungsplattform), die Einbindung von Serlo in die künftige nationale Bildungsplattform.
 
 ## Beschreibung der Prototypen
 
