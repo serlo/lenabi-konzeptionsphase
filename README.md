@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/serlo/frontend/staging/public/_assets/img/serlo-logo-gh.svg" alt="Serlo Logo" title="Serlo" align="right" height="80" />
+<img src="https://raw.githubusercontent.com/serlo/frontend/staging/public/_assets/img/serlo-logo-gh.svg" alt="Serlo Logo" title="Serlo" align="right" height="75" />
 
-# LENABI
+# serlo.org – LENABI 
 
 In diesem Repository und dem dazugehörigem Wiki befindet sich die Dokumentation für unser LENABI Projekt.
 
