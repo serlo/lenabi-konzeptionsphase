@@ -26,3 +26,7 @@ Dieses Repository enthält Jupyter Notebooks, die folgendermaßen selbst gestart
 ## Lizenz
 
 Der Inhalt dieses Repositories und Wikis steht unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Der verlinkte Quellcode zu anderen Serlo-Projekten steht unter einer [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html) Lizenz. Beides kann daher gerne weiterverwendet werden.
+
+## Förderung
+
+Das diesem Bericht zugrunde liegende Vorhaben wurde mit Mitteln des Bundesministeriums für Bildung und Forschung unter dem Förderkennzeichen LENABI gefördert. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei der Autorin/beim Autor.
