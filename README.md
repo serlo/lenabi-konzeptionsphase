@@ -29,4 +29,6 @@ Der Inhalt dieses Repositories und Wikis steht unter [CC0 1.0](https://creativec
 
 ## Förderung
 
+<img src="https://github.com/serlo/lenabi/raw/main/assets/bmbf.png" alt="Logo BMBF" title="BMBF" align="right" height="75" />
+
 Das diesem Bericht zugrunde liegende Vorhaben wurde mit Mitteln des Bundesministeriums für Bildung und Forschung unter dem Förderkennzeichen LENABI gefördert. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei der Autorin/beim Autor.
