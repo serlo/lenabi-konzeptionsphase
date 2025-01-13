@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/serlo/frontend/staging/public/_assets/img/serlo-logo-gh.svg" alt="Serlo Logo" title="Serlo" align="right" height="75" />
+<img src="https://github.com/serlo/lenabi-konzeptionsphase/blob/main/assets/serlo.svg?raw=true" alt="Serlo Logo" title="Serlo" align="right" height="75" />
 
 # serlo.org – LENABI
 
