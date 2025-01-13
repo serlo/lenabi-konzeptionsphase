@@ -29,7 +29,7 @@ Der Inhalt dieses Repositories und Wikis steht unter [CC0 1.0](https://creativec
 
 ## Förderung
 
-<img src="https://github.com/serlo/lenabi/raw/main/assets/eu.png" alt="Logo Europäische Union" title="Europäische Union" align="right" height="150" />
-<img src="https://github.com/serlo/lenabi/raw/main/assets/bmbf.png" alt="Logo BMBF" title="BMBF" align="right" height="150" />
+<img src="https://github.com/serlo/lenabi-konzeptionsphase/blob/main/assets/eu.png?raw=true" alt="Logo Europäische Union" title="Europäische Union" align="right" height="150" />
+<img src="https://github.com/serlo/lenabi-konzeptionsphase/blob/main/assets/bmbf.png?raw=true" alt="Logo BMBF" title="BMBF" align="right" height="150" />
 
 Das diesem Bericht zugrunde liegende Vorhaben wurde mit Mitteln des Bundesministeriums für Bildung und Forschung unter dem Förderkennzeichen LENABI gefördert. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei der Autorin/beim Autor.
